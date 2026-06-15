@@ -4,6 +4,11 @@
 FROM node:22-bookworm-slim AS build
 WORKDIR /app
 
+# The lockfile is authored by npm 11 (see package.json "packageManager"), which
+# omits optional peer deps that node:22's bundled npm 10 expects -> `npm ci`
+# fails with "Missing: @emnapi/* from lock file". Pin npm to match the lockfile.
+RUN npm i -g npm@11.6.2
+
 # Install all deps (devDependencies are needed for `ng build`).
 COPY package.json package-lock.json ./
 RUN npm ci
@@ -16,6 +21,9 @@ RUN npm run build
 FROM node:22-bookworm-slim AS runtime
 ENV NODE_ENV=production
 WORKDIR /app
+
+# Match the lockfile's npm version here too (see build stage above).
+RUN npm i -g npm@11.6.2
 
 # Production deps only (express, compression, @angular/ssr runtime, ...).
 COPY package.json package-lock.json ./
