@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1260" width="2400" height="1260" fill="none">
+  <defs>
+    <linearGradient id="paint" x1="0" y1="405" x2="0" y2="1125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#33333b"/>
+      <stop offset="0.55" stop-color="#26262c"/>
+      <stop offset="1" stop-color="#1a1a1f"/>
+    </linearGradient>
+  </defs>
+  <circle cx="575" cy="990" r="234" fill="#0a0a0c"/><path d="M 336.5 990 A 238.5 238.5 0 0 1 813.5 990" fill="none" stroke="#ffffff14" stroke-width="3"/>
+  <circle cx="1820" cy="990" r="234" fill="#0a0a0c"/><path d="M 1581.5 990 A 238.5 238.5 0 0 1 2058.5 990" fill="none" stroke="#ffffff14" stroke-width="3"/>
+  <path d="M 170 1125 Q 129.5 990 147.5 882 Q 156.5 774 246.5 756 L 800 756 Q 914.7 414 1086.7 405 Q 1304.4 427.5 1482.5 774 Q 1775 792 2157.5 837 Q 2247.5 855 2238.5 981 Q 2247.5 1071 2193.5 1125 Z" fill="url(#paint)" stroke="#ffffff1f" stroke-width="3"/>
+  <path d="M 848.6 743.9 Q 960.9 445.5 1086.7 445.5 Q 1292.5 468 1446 747.9 Z" fill="#3b3b46" opacity="0.9"/>
+  <rect x="1122.7" y="445.5" width="45" height="294.3" fill="url(#paint)"/>
+  <line x1="282.5" y1="891" x2="2067.5" y2="891" stroke="#ffffff21" stroke-width="3"/>
+  <circle cx="575" cy="990" r="225" fill="#08080a"/><circle cx="575" cy="990" r="163.9" fill="#3a3d44"/><circle cx="575" cy="990" r="157.3" fill="#23252a"/><line x1="575" y1="990" x2="575" y2="855.6" stroke="#2c2e33" stroke-width="19.7" stroke-linecap="round"/><line x1="575" y1="990" x2="702.8" y2="948.5" stroke="#2c2e33" stroke-width="19.7" stroke-linecap="round"/><line x1="575" y1="990" x2="654" y2="1098.7" stroke="#2c2e33" stroke-width="19.7" stroke-linecap="round"/><line x1="575" y1="990" x2="496" y2="1098.7" stroke="#2c2e33" stroke-width="19.7" stroke-linecap="round"/><line x1="575" y1="990" x2="447.2" y2="948.5" stroke="#2c2e33" stroke-width="19.7" stroke-linecap="round"/><circle cx="575" cy="990" r="32.8" fill="#16171a" stroke="#4a4d54" stroke-width="3"/>
+  <circle cx="1820" cy="990" r="225" fill="#08080a"/><circle cx="1820" cy="990" r="163.9" fill="#3a3d44"/><circle cx="1820" cy="990" r="157.3" fill="#23252a"/><line x1="1820" y1="990" x2="1820" y2="855.6" stroke="#2c2e33" stroke-width="19.7" stroke-linecap="round"/><line x1="1820" y1="990" x2="1947.8" y2="948.5" stroke="#2c2e33" stroke-width="19.7" stroke-linecap="round"/><line x1="1820" y1="990" x2="1899" y2="1098.7" stroke="#2c2e33" stroke-width="19.7" stroke-linecap="round"/><line x1="1820" y1="990" x2="1741" y2="1098.7" stroke="#2c2e33" stroke-width="19.7" stroke-linecap="round"/><line x1="1820" y1="990" x2="1692.2" y2="948.5" stroke="#2c2e33" stroke-width="19.7" stroke-linecap="round"/><circle cx="1820" cy="990" r="32.8" fill="#16171a" stroke="#4a4d54" stroke-width="3"/>
+  <text x="147.5" y="292.5" fill="#9c9b94" opacity="0.35" font-family="system-ui, sans-serif" font-size="40" letter-spacing="6">C-CLASS W206 · PLACEHOLDER RENDER</text>
+</svg>

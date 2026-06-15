@@ -1,0 +1,146 @@
+// =============================================================================
+// AUREN design tokens — single source of truth (spec 07 "Three Climates").
+// The identity is NOT a fixed palette: a neutral studio base + a global climate
+// state (the selected season) that retints accent, light, and atmosphere.
+// Spend boldness in ONE place (the climate); everything else stays quiet.
+// Components consume tokens only — no magic values.
+// =============================================================================
+
+:root {
+  // --- Studio base (neutral / showroom — before a season is chosen) ----------
+  --studio-0: #0b0c0e; // page void — near-black, cool-neutral, museum
+  --studio-1: #15171a; // surface
+  --studio-2: #1e2125; // elevated glass
+  --ink-0: #eceef1; // primary, cool off-white
+  --ink-1: #8a9099; // secondary
+  --line: #ffffff12; // hairline
+  --metal: #b9c0c7; // cool machined chrome — the only neutral "accent" (material, not brand)
+
+  // Semantic surface aliases (components reference these).
+  --bg-0: var(--studio-0);
+  --bg-1: var(--studio-1);
+  --bg-2: var(--studio-2);
+
+  // Floating glass chrome (spec 07): thin hairline + backdrop blur, no shadows.
+  --glass-bg: color-mix(in srgb, var(--studio-1) 70%, transparent);
+  --glass-blur: 14px;
+
+  // The "accent" is climate-driven. In the neutral base it is machined metal —
+  // never amber. Each climate theme retints it to the season's key light below.
+  --accent: var(--metal);
+  --accent-ink: var(--studio-0);
+
+  // --- Active climate tokens (defaults = neutral studio, no season) -----------
+  --clime-sky-top: #1a1d22;
+  --clime-sky-low: #23272e;
+  --clime-key: var(--metal);
+  --clime-ground: #0f1113;
+  --clime-glow: #b9c0c71f; // faint horizon glow of the key light
+  --clime-grade: transparent;
+
+  // Functional colors (season-independent) — system states only, never decoration.
+  --success: #5fb87e;
+  --warning: #e0a53c; // also the sizing-warning amber
+  --danger: #d5564b;
+
+  // --- Typography (FiraGO — editorial + technical, Georgian-first) ------------
+  --font-display: 'FiraGO', 'Noto Sans Georgian', system-ui, sans-serif;
+  --font-body: 'FiraGO', 'Noto Sans Georgian', system-ui, sans-serif;
+
+  // Type scale — ratio ~1.333, 16px base
+  --text-xs: 0.75rem; // 12
+  --text-sm: 0.875rem; // 14
+  --text-base: 1rem; // 16
+  --text-lg: 1.333rem; // 21.3
+  --text-xl: 1.777rem; // 28.4
+  --text-2xl: 2.369rem; // 37.9
+  --text-3xl: 3.157rem; // 50.5
+  --text-4xl: 4.209rem; // 67.3
+  --text-display: 5.61rem; // 89.8 — the giant season words
+
+  --weight-regular: 400;
+  --weight-medium: 500;
+  --weight-display: 600; // single display weight
+
+  --leading-body: 1.6;
+  --leading-tight: 1.05;
+  // Recurring technical micro-label motif (eyebrows, spec captions, controls).
+  --tracking-technical: 0.18em;
+
+  // --- Spacing scale (4px base) ----------------------------------------------
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4rem;
+  --space-9: 6rem;
+  --space-10: 8rem;
+
+  // --- Radii (small, engineered — not bubbly) --------------------------------
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 10px;
+  --radius-full: 999px;
+
+  // --- Z-index map ------------------------------------------------------------
+  --z-stage: 10;
+  --z-stage-overlay: 20;
+  --z-header: 100;
+  --z-sheet: 200;
+  --z-overlay: 300;
+  --z-toast: 400;
+
+  // --- Motion (mirrored by MotionService) ------------------------------------
+  --dur-fast: 150ms;
+  --dur-base: 300ms;
+  --dur-slow: 600ms;
+  --dur-climate: 1400ms; // the climate transition (R3)
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1); // ~ power3.out
+  --ease-seat: cubic-bezier(0.34, 1.4, 0.64, 1); // ~ back.out(1.4)
+  --ease-climate: cubic-bezier(0.45, 0, 0.2, 1); // ~ power2.inOut
+
+  // --- Layout -----------------------------------------------------------------
+  --container-max: 1440px;
+  --header-height: 64px;
+  --touch-target: 44px;
+}
+
+// =============================================================================
+// Climate theme layers — set by ClimateService on the app root. Descendants
+// inherit the retinted custom properties (accent → the season's key light,
+// plus sky/ground/glow for atmospheric hints). R2: calm theme + frames only;
+// R3 adds the cinematic stage transformation.
+// =============================================================================
+
+.climate-summer {
+  --clime-sky-top: #e9531f;
+  --clime-sky-low: #ffb257;
+  --clime-key: #ff7a2e; // low warm sun
+  --clime-ground: #2e2924; // sun-baked asphalt
+  --clime-glow: #ff7a2e2e;
+  --accent: var(--clime-key);
+  --accent-ink: var(--studio-0);
+}
+
+.climate-winter {
+  --clime-sky-top: #3e5a78;
+  --clime-sky-low: #c7dcea;
+  --clime-key: #afc9e2; // flat cold light
+  --clime-ground: #c4d2db; // snow
+  --clime-glow: #afc9e233;
+  --accent: var(--clime-key);
+  --accent-ink: var(--studio-0);
+}
+
+.climate-all-season {
+  --clime-sky-top: #566a6e;
+  --clime-sky-low: #9fb0ae;
+  --clime-key: #c9cfc6; // soft overcast key
+  --clime-ground: #23282a; // wet asphalt
+  --clime-glow: #9fb0ae29;
+  --accent: var(--clime-key);
+  --accent-ink: var(--studio-0);
+}

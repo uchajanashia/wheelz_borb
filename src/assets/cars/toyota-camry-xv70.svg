@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1260" width="2400" height="1260" fill="none">
+  <defs>
+    <linearGradient id="paint" x1="0" y1="405" x2="0" y2="1125" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#33333b"/>
+      <stop offset="0.55" stop-color="#26262c"/>
+      <stop offset="1" stop-color="#1a1a1f"/>
+    </linearGradient>
+  </defs>
+  <circle cx="590" cy="990" r="234" fill="#0a0a0c"/><path d="M 351.5 990 A 238.5 238.5 0 0 1 828.5 990" fill="none" stroke="#ffffff14" stroke-width="3"/>
+  <circle cx="1810" cy="990" r="234" fill="#0a0a0c"/><path d="M 1571.5 990 A 238.5 238.5 0 0 1 2048.5 990" fill="none" stroke="#ffffff14" stroke-width="3"/>
+  <path d="M 185 1125 Q 144.5 990 162.5 882 Q 171.5 774 261.5 756 L 815 756 Q 925.5 414 1091.2 405 Q 1300.9 427.5 1472.5 774 Q 1765 792 2147.5 837 Q 2237.5 855 2228.5 981 Q 2237.5 1071 2183.5 1125 Z" fill="url(#paint)" stroke="#ffffff1f" stroke-width="3"/>
+  <path d="M 863.6 743.9 Q 971.5 445.5 1091.2 445.5 Q 1289.5 468 1436 747.9 Z" fill="#3b3b46" opacity="0.9"/>
+  <rect x="1127.2" y="445.5" width="45" height="294.3" fill="url(#paint)"/>
+  <line x1="297.5" y1="891" x2="2057.5" y2="891" stroke="#ffffff21" stroke-width="3"/>
+  <circle cx="590" cy="990" r="225" fill="#08080a"/><circle cx="590" cy="990" r="153.8" fill="#3a3d44"/><circle cx="590" cy="990" r="147.6" fill="#23252a"/><line x1="590" y1="990" x2="590" y2="863.9" stroke="#2c2e33" stroke-width="18.5" stroke-linecap="round"/><line x1="590" y1="990" x2="709.9" y2="951" stroke="#2c2e33" stroke-width="18.5" stroke-linecap="round"/><line x1="590" y1="990" x2="664.1" y2="1092" stroke="#2c2e33" stroke-width="18.5" stroke-linecap="round"/><line x1="590" y1="990" x2="515.9" y2="1092" stroke="#2c2e33" stroke-width="18.5" stroke-linecap="round"/><line x1="590" y1="990" x2="470.1" y2="951" stroke="#2c2e33" stroke-width="18.5" stroke-linecap="round"/><circle cx="590" cy="990" r="30.8" fill="#16171a" stroke="#4a4d54" stroke-width="3"/>
+  <circle cx="1810" cy="990" r="225" fill="#08080a"/><circle cx="1810" cy="990" r="153.8" fill="#3a3d44"/><circle cx="1810" cy="990" r="147.6" fill="#23252a"/><line x1="1810" y1="990" x2="1810" y2="863.9" stroke="#2c2e33" stroke-width="18.5" stroke-linecap="round"/><line x1="1810" y1="990" x2="1929.9" y2="951" stroke="#2c2e33" stroke-width="18.5" stroke-linecap="round"/><line x1="1810" y1="990" x2="1884.1" y2="1092" stroke="#2c2e33" stroke-width="18.5" stroke-linecap="round"/><line x1="1810" y1="990" x2="1735.9" y2="1092" stroke="#2c2e33" stroke-width="18.5" stroke-linecap="round"/><line x1="1810" y1="990" x2="1690.1" y2="951" stroke="#2c2e33" stroke-width="18.5" stroke-linecap="round"/><circle cx="1810" cy="990" r="30.8" fill="#16171a" stroke="#4a4d54" stroke-width="3"/>
+  <text x="162.5" y="292.5" fill="#9c9b94" opacity="0.35" font-family="system-ui, sans-serif" font-size="40" letter-spacing="6">CAMRY XV70 · PLACEHOLDER RENDER</text>
+</svg>

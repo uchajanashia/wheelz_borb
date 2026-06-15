@@ -1,0 +1,124 @@
+{
+  "f-bmw-g20-base": {
+    "rimDiametersInch": [17, 18],
+    "oemBySize": [
+      { "rimDiameterInch": 17, "front": { "widthMm": 225, "aspect": 50, "rimDiameterInch": 17 } },
+      { "rimDiameterInch": 18, "front": { "widthMm": 225, "aspect": 45, "rimDiameterInch": 18 } }
+    ],
+    "staggered": false,
+    "minLoadIndex": 91,
+    "oemSpeedRating": "V"
+  },
+  "f-bmw-g20-m": {
+    "rimDiametersInch": [18, 19],
+    "oemBySize": [
+      { "rimDiameterInch": 18, "front": { "widthMm": 225, "aspect": 45, "rimDiameterInch": 18 } },
+      { "rimDiameterInch": 19, "front": { "widthMm": 225, "aspect": 40, "rimDiameterInch": 19 } }
+    ],
+    "staggered": false,
+    "minLoadIndex": 94,
+    "oemSpeedRating": "Y"
+  },
+  "f-bmw-x5-g05": {
+    "rimDiametersInch": [19, 20],
+    "oemBySize": [
+      { "rimDiameterInch": 19, "front": { "widthMm": 265, "aspect": 50, "rimDiameterInch": 19 } },
+      { "rimDiameterInch": 20, "front": { "widthMm": 275, "aspect": 45, "rimDiameterInch": 20 } }
+    ],
+    "staggered": false,
+    "minLoadIndex": 105,
+    "oemSpeedRating": "V"
+  },
+  "f-mb-w206": {
+    "rimDiametersInch": [17, 18, 19],
+    "oemBySize": [
+      { "rimDiameterInch": 17, "front": { "widthMm": 225, "aspect": 50, "rimDiameterInch": 17 } },
+      { "rimDiameterInch": 18, "front": { "widthMm": 225, "aspect": 45, "rimDiameterInch": 18 } },
+      { "rimDiameterInch": 19, "front": { "widthMm": 225, "aspect": 40, "rimDiameterInch": 19 } }
+    ],
+    "staggered": false,
+    "minLoadIndex": 94,
+    "oemSpeedRating": "V"
+  },
+  "f-vw-golf8-base": {
+    "rimDiametersInch": [16, 17],
+    "oemBySize": [
+      { "rimDiameterInch": 16, "front": { "widthMm": 205, "aspect": 55, "rimDiameterInch": 16 } },
+      { "rimDiameterInch": 17, "front": { "widthMm": 205, "aspect": 50, "rimDiameterInch": 17 } }
+    ],
+    "staggered": false,
+    "minLoadIndex": 91,
+    "oemSpeedRating": "H"
+  },
+  "f-vw-golf8-gti": {
+    "rimDiametersInch": [17, 18],
+    "oemBySize": [
+      { "rimDiameterInch": 17, "front": { "widthMm": 225, "aspect": 45, "rimDiameterInch": 17 } },
+      { "rimDiameterInch": 18, "front": { "widthMm": 225, "aspect": 40, "rimDiameterInch": 18 } }
+    ],
+    "staggered": false,
+    "minLoadIndex": 91,
+    "oemSpeedRating": "Y"
+  },
+  "f-toyota-gr86": {
+    "rimDiametersInch": [17, 18],
+    "oemBySize": [
+      { "rimDiameterInch": 17, "front": { "widthMm": 215, "aspect": 45, "rimDiameterInch": 17 } },
+      { "rimDiameterInch": 18, "front": { "widthMm": 215, "aspect": 40, "rimDiameterInch": 18 } }
+    ],
+    "staggered": false,
+    "minLoadIndex": 87,
+    "oemSpeedRating": "W"
+  },
+  "f-toyota-prado150": {
+    "rimDiametersInch": [17, 18],
+    "oemBySize": [
+      { "rimDiameterInch": 17, "front": { "widthMm": 265, "aspect": 65, "rimDiameterInch": 17 } },
+      { "rimDiameterInch": 18, "front": { "widthMm": 265, "aspect": 60, "rimDiameterInch": 18 } }
+    ],
+    "staggered": false,
+    "minLoadIndex": 112,
+    "oemSpeedRating": "S"
+  },
+  "f-toyota-camry-xv70": {
+    "rimDiametersInch": [17, 18],
+    "oemBySize": [
+      { "rimDiameterInch": 17, "front": { "widthMm": 215, "aspect": 55, "rimDiameterInch": 17 } },
+      { "rimDiameterInch": 18, "front": { "widthMm": 235, "aspect": 45, "rimDiameterInch": 18 } }
+    ],
+    "staggered": false,
+    "minLoadIndex": 94,
+    "oemSpeedRating": "V"
+  },
+  "f-nissan-370z-base": {
+    "rimDiametersInch": [18, 19],
+    "oemBySize": [
+      {
+        "rimDiameterInch": 18,
+        "front": { "widthMm": 225, "aspect": 50, "rimDiameterInch": 18 },
+        "rear": { "widthMm": 245, "aspect": 45, "rimDiameterInch": 18 }
+      },
+      {
+        "rimDiameterInch": 19,
+        "front": { "widthMm": 245, "aspect": 40, "rimDiameterInch": 19 },
+        "rear": { "widthMm": 275, "aspect": 35, "rimDiameterInch": 19 }
+      }
+    ],
+    "staggered": true,
+    "minLoadIndex": 95,
+    "oemSpeedRating": "Y"
+  },
+  "f-nissan-370z-nismo": {
+    "rimDiametersInch": [19],
+    "oemBySize": [
+      {
+        "rimDiameterInch": 19,
+        "front": { "widthMm": 245, "aspect": 40, "rimDiameterInch": 19 },
+        "rear": { "widthMm": 285, "aspect": 35, "rimDiameterInch": 19 }
+      }
+    ],
+    "staggered": true,
+    "minLoadIndex": 96,
+    "oemSpeedRating": "Y"
+  }
+}

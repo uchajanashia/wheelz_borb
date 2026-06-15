@@ -1,0 +1,241 @@
+{
+  "makes": [
+    { "id": "bmw", "name": "BMW", "logoUrl": "/assets/makes/bmw.svg" },
+    { "id": "mercedes", "name": "Mercedes-Benz", "logoUrl": "/assets/makes/mercedes.svg" },
+    { "id": "vw", "name": "Volkswagen", "logoUrl": "/assets/makes/vw.svg" },
+    { "id": "toyota", "name": "Toyota", "logoUrl": "/assets/makes/toyota.svg" },
+    { "id": "nissan", "name": "Nissan", "logoUrl": "/assets/makes/nissan.svg" }
+  ],
+  "models": [
+    {
+      "id": "bmw-3-series-g20",
+      "makeId": "bmw",
+      "name": "3 Series",
+      "generation": "G20",
+      "yearFrom": 2019,
+      "yearTo": null,
+      "bodyType": "sedan"
+    },
+    {
+      "id": "bmw-x5-g05",
+      "makeId": "bmw",
+      "name": "X5",
+      "generation": "G05",
+      "yearFrom": 2019,
+      "yearTo": null,
+      "bodyType": "suv"
+    },
+    {
+      "id": "mercedes-c-class-w206",
+      "makeId": "mercedes",
+      "name": "C-Class",
+      "generation": "W206",
+      "yearFrom": 2021,
+      "yearTo": null,
+      "bodyType": "sedan"
+    },
+    {
+      "id": "vw-golf-8",
+      "makeId": "vw",
+      "name": "Golf",
+      "generation": "Mk8",
+      "yearFrom": 2020,
+      "yearTo": null,
+      "bodyType": "hatchback"
+    },
+    {
+      "id": "toyota-gr86",
+      "makeId": "toyota",
+      "name": "GR86",
+      "generation": "ZN8",
+      "yearFrom": 2022,
+      "yearTo": null,
+      "bodyType": "coupe"
+    },
+    {
+      "id": "toyota-land-cruiser-prado-150",
+      "makeId": "toyota",
+      "name": "Land Cruiser Prado",
+      "generation": "J150",
+      "yearFrom": 2018,
+      "yearTo": 2023,
+      "bodyType": "suv"
+    },
+    {
+      "id": "toyota-camry-xv70",
+      "makeId": "toyota",
+      "name": "Camry",
+      "generation": "XV70",
+      "yearFrom": 2018,
+      "yearTo": 2024,
+      "bodyType": "sedan"
+    },
+    {
+      "id": "nissan-370z-z34",
+      "makeId": "nissan",
+      "name": "370Z",
+      "generation": "Z34",
+      "yearFrom": 2009,
+      "yearTo": 2020,
+      "bodyType": "coupe"
+    }
+  ],
+  "trims": [
+    {
+      "id": "bmw-3-series-g20-320i",
+      "modelId": "bmw-3-series-g20",
+      "name": "320i",
+      "fitmentId": "f-bmw-g20-base",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/bmw-3-series-g20.svg",
+        "stageWidthPx": 2400,
+        "groundY": 1212.5,
+        "frontWheel": { "cx": 1815, "cy": 985, "rimRadiusPx": 157.7, "oemSidewallPx": 69.8 },
+        "rearWheel": { "cx": 585, "cy": 985, "rimRadiusPx": 157.7, "oemSidewallPx": 69.8 }
+      }
+    },
+    {
+      "id": "bmw-3-series-g20-m340i",
+      "modelId": "bmw-3-series-g20",
+      "name": "M340i",
+      "fitmentId": "f-bmw-g20-m",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/bmw-3-series-g20.svg",
+        "stageWidthPx": 2400,
+        "groundY": 1217.5,
+        "frontWheel": { "cx": 1815, "cy": 985, "rimRadiusPx": 169.3, "oemSidewallPx": 63.2 },
+        "rearWheel": { "cx": 585, "cy": 985, "rimRadiusPx": 169.3, "oemSidewallPx": 63.2 }
+      }
+    },
+    {
+      "id": "bmw-x5-g05-40i",
+      "modelId": "bmw-x5-g05",
+      "name": "xDrive40i",
+      "fitmentId": "f-bmw-x5-g05",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/bmw-x5-g05.svg",
+        "stageWidthPx": 2400,
+        "groundY": 1212.5,
+        "frontWheel": { "cx": 1790, "cy": 950, "rimRadiusPx": 176.5, "oemSidewallPx": 86.0 },
+        "rearWheel": { "cx": 600, "cy": 950, "rimRadiusPx": 176.5, "oemSidewallPx": 86.0 }
+      }
+    },
+    {
+      "id": "mercedes-c-class-w206-c200",
+      "modelId": "mercedes-c-class-w206",
+      "name": "C 200",
+      "fitmentId": "f-mb-w206",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/mercedes-c-class-w206.svg",
+        "stageWidthPx": 2400,
+        "groundY": 1215,
+        "frontWheel": { "cx": 1820, "cy": 990, "rimRadiusPx": 163.9, "oemSidewallPx": 61.1 },
+        "rearWheel": { "cx": 575, "cy": 990, "rimRadiusPx": 163.9, "oemSidewallPx": 61.1 }
+      }
+    },
+    {
+      "id": "mercedes-c-class-w206-c300",
+      "modelId": "mercedes-c-class-w206",
+      "name": "C 300",
+      "fitmentId": "f-mb-w206",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/mercedes-c-class-w206.svg",
+        "stageWidthPx": 2400,
+        "groundY": 1220,
+        "frontWheel": { "cx": 1820, "cy": 990, "rimRadiusPx": 167.5, "oemSidewallPx": 62.5 },
+        "rearWheel": { "cx": 575, "cy": 990, "rimRadiusPx": 167.5, "oemSidewallPx": 62.5 }
+      }
+    },
+    {
+      "id": "vw-golf-8-15tsi",
+      "modelId": "vw-golf-8",
+      "name": "1.5 TSI",
+      "fitmentId": "f-vw-golf8-base",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/vw-golf-8.svg",
+        "stageWidthPx": 2400,
+        "groundY": 1215,
+        "frontWheel": { "cx": 1770, "cy": 1000, "rimRadiusPx": 145.8, "oemSidewallPx": 69.2 },
+        "rearWheel": { "cx": 645, "cy": 1000, "rimRadiusPx": 145.8, "oemSidewallPx": 69.2 }
+      }
+    },
+    {
+      "id": "vw-golf-8-gti",
+      "modelId": "vw-golf-8",
+      "name": "GTI",
+      "fitmentId": "f-vw-golf8-gti",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/vw-golf-8.svg",
+        "stageWidthPx": 2400,
+        "groundY": 1220,
+        "frontWheel": { "cx": 1770, "cy": 1000, "rimRadiusPx": 157.9, "oemSidewallPx": 62.1 },
+        "rearWheel": { "cx": 645, "cy": 1000, "rimRadiusPx": 157.9, "oemSidewallPx": 62.1 }
+      }
+    },
+    {
+      "id": "toyota-gr86-premium",
+      "modelId": "toyota-gr86",
+      "name": "Premium",
+      "fitmentId": "f-toyota-gr86",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/toyota-gr86.svg",
+        "stageWidthPx": 2400,
+        "groundY": 1230,
+        "frontWheel": { "cx": 1845, "cy": 1005, "rimRadiusPx": 163.5, "oemSidewallPx": 61.5 },
+        "rearWheel": { "cx": 560, "cy": 1005, "rimRadiusPx": 163.5, "oemSidewallPx": 61.5 }
+      }
+    },
+    {
+      "id": "toyota-land-cruiser-prado-150-vx",
+      "modelId": "toyota-land-cruiser-prado-150",
+      "name": "VX",
+      "fitmentId": "f-toyota-prado150",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/toyota-land-cruiser-prado-150.svg",
+        "stageWidthPx": 2400,
+        "groundY": 1212.5,
+        "frontWheel": { "cx": 1760, "cy": 940, "rimRadiusPx": 160.7, "oemSidewallPx": 111.8 },
+        "rearWheel": { "cx": 615, "cy": 940, "rimRadiusPx": 160.7, "oemSidewallPx": 111.8 }
+      }
+    },
+    {
+      "id": "toyota-camry-xv70-35",
+      "modelId": "toyota-camry-xv70",
+      "name": "3.5 V6",
+      "fitmentId": "f-toyota-camry-xv70",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/toyota-camry-xv70.svg",
+        "stageWidthPx": 2400,
+        "groundY": 1215,
+        "frontWheel": { "cx": 1810, "cy": 990, "rimRadiusPx": 153.8, "oemSidewallPx": 71.2 },
+        "rearWheel": { "cx": 590, "cy": 990, "rimRadiusPx": 153.8, "oemSidewallPx": 71.2 }
+      }
+    },
+    {
+      "id": "nissan-370z-z34-sport",
+      "modelId": "nissan-370z-z34",
+      "name": "Sport",
+      "fitmentId": "f-nissan-370z-base",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/nissan-370z-z34.svg",
+        "stageWidthPx": 2400,
+        "groundY": 1240,
+        "frontWheel": { "cx": 1850, "cy": 1010, "rimRadiusPx": 163.6, "oemSidewallPx": 66.4 },
+        "rearWheel": { "cx": 555, "cy": 1010, "rimRadiusPx": 163.6, "oemSidewallPx": 66.4 }
+      }
+    },
+    {
+      "id": "nissan-370z-z34-nismo",
+      "modelId": "nissan-370z-z34",
+      "name": "NISMO",
+      "fitmentId": "f-nissan-370z-nismo",
+      "visual": {
+        "sideProfileUrl": "/assets/cars/nissan-370z-z34-nismo.webp",
+        "stageWidthPx": 2400,
+        "groundY": 1245,
+        "frontWheel": { "cx": 1850, "cy": 1010, "rimRadiusPx": 167.1, "oemSidewallPx": 67.9 },
+        "rearWheel": { "cx": 555, "cy": 1010, "rimRadiusPx": 167.1, "oemSidewallPx": 67.9 }
+      }
+    }
+  ]
+}

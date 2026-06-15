@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1260" width="2400" height="1260" fill="none">
+  <defs>
+    <linearGradient id="paint" x1="0" y1="120.5" x2="0" y2="1055" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#33333b"/>
+      <stop offset="0.55" stop-color="#26262c"/>
+      <stop offset="1" stop-color="#1a1a1f"/>
+    </linearGradient>
+  </defs>
+  <circle cx="600" cy="950" r="273" fill="#0a0a0c"/><path d="M 321.8 950 A 278.3 278.3 0 0 1 878.3 950" fill="none" stroke="#ffffff14" stroke-width="3"/>
+  <circle cx="1790" cy="950" r="273" fill="#0a0a0c"/><path d="M 1511.8 950 A 278.3 278.3 0 0 1 2068.3 950" fill="none" stroke="#ffffff14" stroke-width="3"/>
+  <path d="M 180 1055 Q 132.8 897.5 153.8 771.5 Q 164.3 645.5 269.3 624.5 L 547.5 624.5 Q 679.8 120.5 862.5 120.5 L 1107.5 120.5 Q 1324.1 635 1501.3 656 Q 1737.5 666.5 2157.5 719 Q 2262.5 740 2252 887 Q 2262.5 992 2199.5 1055 Z" fill="url(#paint)" stroke="#ffffff1f" stroke-width="3"/>
+  <path d="M 604.2 610.3 Q 727 167.8 909.8 167.8 L 1079.2 167.8 Q 1343.8 624.5 1458.7 615 Z" fill="#3b3b46" opacity="0.9"/>
+  <rect x="1037.5" y="167.8" width="52.5" height="437.9" fill="url(#paint)"/>
+  <line x1="311.3" y1="782" x2="2052.5" y2="782" stroke="#ffffff21" stroke-width="3"/>
+  <circle cx="600" cy="950" r="262.5" fill="#08080a"/><circle cx="600" cy="950" r="176.5" fill="#3a3d44"/><circle cx="600" cy="950" r="169.4" fill="#23252a"/><line x1="600" y1="950" x2="600" y2="805.3" stroke="#2c2e33" stroke-width="21.2" stroke-linecap="round"/><line x1="600" y1="950" x2="737.6" y2="905.3" stroke="#2c2e33" stroke-width="21.2" stroke-linecap="round"/><line x1="600" y1="950" x2="685.1" y2="1067.1" stroke="#2c2e33" stroke-width="21.2" stroke-linecap="round"/><line x1="600" y1="950" x2="514.9" y2="1067.1" stroke="#2c2e33" stroke-width="21.2" stroke-linecap="round"/><line x1="600" y1="950" x2="462.4" y2="905.3" stroke="#2c2e33" stroke-width="21.2" stroke-linecap="round"/><circle cx="600" cy="950" r="35.3" fill="#16171a" stroke="#4a4d54" stroke-width="3"/>
+  <circle cx="1790" cy="950" r="262.5" fill="#08080a"/><circle cx="1790" cy="950" r="176.5" fill="#3a3d44"/><circle cx="1790" cy="950" r="169.4" fill="#23252a"/><line x1="1790" y1="950" x2="1790" y2="805.3" stroke="#2c2e33" stroke-width="21.2" stroke-linecap="round"/><line x1="1790" y1="950" x2="1927.6" y2="905.3" stroke="#2c2e33" stroke-width="21.2" stroke-linecap="round"/><line x1="1790" y1="950" x2="1875.1" y2="1067.1" stroke="#2c2e33" stroke-width="21.2" stroke-linecap="round"/><line x1="1790" y1="950" x2="1704.9" y2="1067.1" stroke="#2c2e33" stroke-width="21.2" stroke-linecap="round"/><line x1="1790" y1="950" x2="1652.4" y2="905.3" stroke="#2c2e33" stroke-width="21.2" stroke-linecap="round"/><circle cx="1790" cy="950" r="35.3" fill="#16171a" stroke="#4a4d54" stroke-width="3"/>
+  <text x="153.8" y="-10.8" fill="#9c9b94" opacity="0.35" font-family="system-ui, sans-serif" font-size="40" letter-spacing="6">X5 G05 · PLACEHOLDER RENDER</text>
+</svg>

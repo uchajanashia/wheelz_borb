@@ -1,0 +1,32 @@
+// =============================================================================
+// FiraGO — self-hosted, full Georgian (Mkhedruli/Mtavruli) + Latin (spec 07/08).
+// One family, multiple weights → cohesive and premium; the type IS the identity.
+//
+// NOTE (R2): shipped as upstream TTF placeholders (font-display: swap, Noto/system
+// fallback during the swap). Real production subsets these to woff2 at the same
+// family name — a drop-in perf optimization (no code change). See 08 budgets.
+// =============================================================================
+
+@font-face {
+  font-family: 'FiraGO';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/firago-400.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FiraGO';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/firago-500.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'FiraGO';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/firago-600.ttf') format('truetype');
+}

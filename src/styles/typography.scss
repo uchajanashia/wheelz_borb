@@ -1,0 +1,75 @@
+// =============================================================================
+// Global typography (spec 07) — consumes tokens.scss only. Type treatment IS
+// the personality: editorial display + wide-tracked technical micro-labels.
+// =============================================================================
+
+body {
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  font-weight: var(--weight-regular);
+  line-height: var(--leading-body);
+  color: var(--ink-0);
+}
+
+h1,
+h2,
+h3,
+.display {
+  font-family: var(--font-display);
+  font-weight: var(--weight-display);
+  line-height: var(--leading-tight);
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+
+h1 {
+  font-size: var(--text-4xl);
+}
+
+h2 {
+  font-size: var(--text-2xl);
+}
+
+h3 {
+  font-size: var(--text-xl);
+}
+
+p {
+  margin: 0;
+}
+
+small,
+.text-secondary {
+  color: var(--ink-1);
+  font-size: var(--text-sm);
+}
+
+// The recurring technical micro-label motif (eyebrows, spec captions, controls).
+.eyebrow {
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-technical);
+  color: var(--ink-1);
+}
+
+// Environmental season word: enormous, very low opacity, set behind content —
+// atmospheric typography, not a label (spec 07).
+.season-word {
+  font-family: var(--font-display);
+  font-weight: var(--weight-display);
+  font-size: clamp(var(--text-4xl), 22vw, 22rem);
+  line-height: 0.9;
+  letter-spacing: -0.02em;
+  color: var(--ink-0);
+  opacity: 0.05;
+  pointer-events: none;
+  user-select: none;
+}
+
+// Numeric data (sizes, indices, prices) — tabular figures, slightly tighter.
+.num,
+td.num,
+.price {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}

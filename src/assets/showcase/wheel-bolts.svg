@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" fill="none">
+  <defs>
+    <radialGradient id="face" cx="0.38" cy="0.34" r="0.9">
+      <stop offset="0" stop-color="#bf9251"/>
+      <stop offset="0.6" stop-color="#a87c3f"/>
+      <stop offset="1" stop-color="#664a22"/>
+    </radialGradient>
+    <radialGradient id="tire" cx="0.42" cy="0.38" r="0.75">
+      <stop offset="0.72" stop-color="#1d1d21"/>
+      <stop offset="1" stop-color="#101013"/>
+    </radialGradient>
+  </defs>
+  <g transform="translate(400 400)">
+    <circle r="67.3" fill="url(#face)" stroke="#664a22" stroke-width="2"/>
+    <circle cx="0" cy="-43.2" r="11.2" fill="#0c0c0e" stroke="#664a22" stroke-width="1.5"/>
+    <circle cx="41.1" cy="-13.4" r="11.2" fill="#0c0c0e" stroke="#664a22" stroke-width="1.5"/>
+    <circle cx="25.4" cy="35" r="11.2" fill="#0c0c0e" stroke="#664a22" stroke-width="1.5"/>
+    <circle cx="-25.4" cy="35" r="11.2" fill="#0c0c0e" stroke="#664a22" stroke-width="1.5"/>
+    <circle cx="-41.1" cy="-13.4" r="11.2" fill="#0c0c0e" stroke="#664a22" stroke-width="1.5"/>
+    <circle r="26.9" fill="#0c0c0e" stroke="#bf9251" stroke-width="2"/>
+  </g>
+</svg>

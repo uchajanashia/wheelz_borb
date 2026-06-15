@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" fill="none">
+  <defs>
+    <radialGradient id="face" cx="0.38" cy="0.34" r="0.9">
+      <stop offset="0" stop-color="#bf9251"/>
+      <stop offset="0.6" stop-color="#a87c3f"/>
+      <stop offset="1" stop-color="#664a22"/>
+    </radialGradient>
+    <radialGradient id="tire" cx="0.42" cy="0.38" r="0.75">
+      <stop offset="0.72" stop-color="#1d1d21"/>
+      <stop offset="1" stop-color="#101013"/>
+    </radialGradient>
+  </defs>
+  <g transform="translate(400 400)">
+    <circle r="398" fill="url(#tire)"/>
+    <circle r="359.1" fill="none" stroke="#0a0a0c" stroke-width="31.9" opacity="0.55"/>
+    <circle r="320.3" fill="#101013" stroke="#bf9251" stroke-width="5"/>
+    <circle r="281.9" fill="#0d0d0f" stroke="#664a22" stroke-width="2"/>
+    <path d="M -26.4 -55.2 L -47.9 -279 L 47.9 -279 L 26.4 -55.2 Z" fill="url(#face)" stroke="#664a22" stroke-width="2" transform="rotate(0)"/>
+    <path d="M -26.4 -55.2 L -47.9 -279 L 47.9 -279 L 26.4 -55.2 Z" fill="url(#face)" stroke="#664a22" stroke-width="2" transform="rotate(72)"/>
+    <path d="M -26.4 -55.2 L -47.9 -279 L 47.9 -279 L 26.4 -55.2 Z" fill="url(#face)" stroke="#664a22" stroke-width="2" transform="rotate(144)"/>
+    <path d="M -26.4 -55.2 L -47.9 -279 L 47.9 -279 L 26.4 -55.2 Z" fill="url(#face)" stroke="#664a22" stroke-width="2" transform="rotate(216)"/>
+    <path d="M -26.4 -55.2 L -47.9 -279 L 47.9 -279 L 26.4 -55.2 Z" fill="url(#face)" stroke="#664a22" stroke-width="2" transform="rotate(288)"/>
+    
+    <circle r="67.3" fill="url(#face)" stroke="#664a22" stroke-width="2"/>
+    <circle cx="0" cy="-43.2" r="11.2" fill="#0c0c0e" stroke="#664a22" stroke-width="1.5"/>
+    <circle cx="41.1" cy="-13.4" r="11.2" fill="#0c0c0e" stroke="#664a22" stroke-width="1.5"/>
+    <circle cx="25.4" cy="35" r="11.2" fill="#0c0c0e" stroke="#664a22" stroke-width="1.5"/>
+    <circle cx="-25.4" cy="35" r="11.2" fill="#0c0c0e" stroke="#664a22" stroke-width="1.5"/>
+    <circle cx="-41.1" cy="-13.4" r="11.2" fill="#0c0c0e" stroke="#664a22" stroke-width="1.5"/>
+    <circle r="26.9" fill="#0c0c0e" stroke="#bf9251" stroke-width="2"/>
+  </g>
+</svg>

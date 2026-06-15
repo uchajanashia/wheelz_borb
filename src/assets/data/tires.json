@@ -1,0 +1,886 @@
+[
+  {
+    "id": "aurelia-sportcontact-7-22545r18",
+    "brandId": "aurelia",
+    "model": "SportContact 7",
+    "season": "summer",
+    "size": { "widthMm": 225, "aspect": 45, "rimDiameterInch": 18 },
+    "loadIndex": 95,
+    "speedRating": "Y",
+    "priceGel": 540,
+    "inStock": 12,
+    "euLabel": { "fuelEfficiency": "A", "wetGrip": "A", "noiseDb": 71, "noiseClass": "B" },
+    "attributes": { "runFlat": true, "treadDepthMm": 7.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-sportcontact-7-22545r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-sportcontact-7-22545r18/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-sportcontact-7-22545r18/tread.svg",
+      "glbUrl": "/assets/tires/aurelia-sportcontact-7-22545r18/model.glb",
+      "gallery": []
+    },
+    "tags": ["flagship", "sport", "run-flat"]
+  },
+  {
+    "id": "aurelia-sportcontact-7-24540r19",
+    "brandId": "aurelia",
+    "model": "SportContact 7",
+    "season": "summer",
+    "size": { "widthMm": 245, "aspect": 40, "rimDiameterInch": 19 },
+    "loadIndex": 98,
+    "speedRating": "Y",
+    "priceGel": 620,
+    "inStock": 8,
+    "euLabel": { "fuelEfficiency": "A", "wetGrip": "A", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": true, "treadDepthMm": 7.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-sportcontact-7-24540r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-sportcontact-7-24540r19/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-sportcontact-7-24540r19/tread.svg",
+      "glbUrl": "/assets/tires/aurelia-sportcontact-7-24540r19/model.glb",
+      "gallery": []
+    },
+    "tags": ["flagship", "sport", "run-flat"]
+  },
+  {
+    "id": "aurelia-sportcontact-7-27535r19",
+    "brandId": "aurelia",
+    "model": "SportContact 7",
+    "season": "summer",
+    "size": { "widthMm": 275, "aspect": 35, "rimDiameterInch": 19 },
+    "loadIndex": 96,
+    "speedRating": "Y",
+    "priceGel": 690,
+    "inStock": 6,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "A", "noiseDb": 73, "noiseClass": "B" },
+    "attributes": { "runFlat": true, "treadDepthMm": 7.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-sportcontact-7-27535r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-sportcontact-7-27535r19/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-sportcontact-7-27535r19/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "sport", "run-flat"]
+  },
+  {
+    "id": "aurelia-sportcontact-7-28535r19",
+    "brandId": "aurelia",
+    "model": "SportContact 7",
+    "season": "summer",
+    "size": { "widthMm": 285, "aspect": 35, "rimDiameterInch": 19 },
+    "loadIndex": 99,
+    "speedRating": "Y",
+    "priceGel": 760,
+    "inStock": 4,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "A", "noiseDb": 74, "noiseClass": "C" },
+    "attributes": { "runFlat": true, "treadDepthMm": 7.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-sportcontact-7-28535r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-sportcontact-7-28535r19/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-sportcontact-7-28535r19/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "sport", "run-flat"]
+  },
+  {
+    "id": "aurelia-grandtour-24545r18",
+    "brandId": "aurelia",
+    "model": "GranTour",
+    "season": "summer",
+    "size": { "widthMm": 245, "aspect": 45, "rimDiameterInch": 18 },
+    "loadIndex": 97,
+    "speedRating": "Y",
+    "priceGel": 560,
+    "inStock": 7,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "B", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": true, "treadDepthMm": 8.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-grandtour-24545r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-grandtour-24545r18/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-grandtour-24545r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring", "run-flat"]
+  },
+  {
+    "id": "aurelia-grandtour-27545r20",
+    "brandId": "aurelia",
+    "model": "GranTour",
+    "season": "summer",
+    "size": { "widthMm": 275, "aspect": 45, "rimDiameterInch": 20 },
+    "loadIndex": 110,
+    "speedRating": "Y",
+    "priceGel": 880,
+    "inStock": 6,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "B", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": true, "treadDepthMm": 8.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-grandtour-27545r20/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-grandtour-27545r20/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-grandtour-27545r20/tread.svg",
+      "glbUrl": "/assets/tires/aurelia-grandtour-27545r20/model.glb",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring", "run-flat"]
+  },
+  {
+    "id": "kinetik-trackattack-21540r18",
+    "brandId": "kinetik",
+    "model": "TrackAttack",
+    "season": "summer",
+    "size": { "widthMm": 215, "aspect": 40, "rimDiameterInch": 18 },
+    "loadIndex": 89,
+    "speedRating": "W",
+    "priceGel": 380,
+    "inStock": 10,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "B", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "treadDepthMm": 7.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/kinetik-trackattack-21540r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/kinetik-trackattack-21540r18/sidewall.svg",
+      "treadUrl": "/assets/tires/kinetik-trackattack-21540r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["performance", "sport"]
+  },
+  {
+    "id": "kinetik-trackattack-22540r18",
+    "brandId": "kinetik",
+    "model": "TrackAttack",
+    "season": "summer",
+    "size": { "widthMm": 225, "aspect": 40, "rimDiameterInch": 18 },
+    "loadIndex": 92,
+    "speedRating": "Y",
+    "priceGel": 410,
+    "inStock": 14,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "A", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "treadDepthMm": 7.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/kinetik-trackattack-22540r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/kinetik-trackattack-22540r18/sidewall.svg",
+      "treadUrl": "/assets/tires/kinetik-trackattack-22540r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["performance", "sport"]
+  },
+  {
+    "id": "kinetik-apex-23540r18",
+    "brandId": "kinetik",
+    "model": "Apex",
+    "season": "summer",
+    "size": { "widthMm": 235, "aspect": 40, "rimDiameterInch": 18 },
+    "loadIndex": 95,
+    "speedRating": "Y",
+    "priceGel": 460,
+    "inStock": 9,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "A", "noiseDb": 73, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "treadDepthMm": 7.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/kinetik-apex-23540r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/kinetik-apex-23540r18/sidewall.svg",
+      "treadUrl": "/assets/tires/kinetik-apex-23540r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["performance", "sport"]
+  },
+  {
+    "id": "kinetik-apex-24535r18",
+    "brandId": "kinetik",
+    "model": "Apex",
+    "season": "summer",
+    "size": { "widthMm": 245, "aspect": 35, "rimDiameterInch": 18 },
+    "loadIndex": 92,
+    "speedRating": "Y",
+    "priceGel": 480,
+    "inStock": 6,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "A", "noiseDb": 73, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "treadDepthMm": 7.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/kinetik-apex-24535r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/kinetik-apex-24535r18/sidewall.svg",
+      "treadUrl": "/assets/tires/kinetik-apex-24535r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["performance", "sport"]
+  },
+  {
+    "id": "kinetik-trackattack-28535r19",
+    "brandId": "kinetik",
+    "model": "TrackAttack",
+    "season": "summer",
+    "size": { "widthMm": 285, "aspect": 35, "rimDiameterInch": 19 },
+    "loadIndex": 99,
+    "speedRating": "Y",
+    "priceGel": 740,
+    "inStock": 5,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "A", "noiseDb": 74, "noiseClass": "C" },
+    "attributes": { "runFlat": false, "treadDepthMm": 7.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/kinetik-trackattack-28535r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/kinetik-trackattack-28535r19/sidewall.svg",
+      "treadUrl": "/assets/tires/kinetik-trackattack-28535r19/tread.svg",
+      "gallery": []
+    },
+    "tags": ["performance", "sport"]
+  },
+  {
+    "id": "kinetik-trackattack-24535r21",
+    "brandId": "kinetik",
+    "model": "TrackAttack",
+    "season": "summer",
+    "size": { "widthMm": 245, "aspect": 35, "rimDiameterInch": 21 },
+    "loadIndex": 96,
+    "speedRating": "Y",
+    "priceGel": 720,
+    "inStock": 4,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "B", "noiseDb": 74, "noiseClass": "C" },
+    "attributes": { "runFlat": false, "treadDepthMm": 7.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/kinetik-trackattack-24535r21/catalog.svg",
+      "sidewallUrl": "/assets/tires/kinetik-trackattack-24535r21/sidewall.svg",
+      "treadUrl": "/assets/tires/kinetik-trackattack-24535r21/tread.svg",
+      "gallery": []
+    },
+    "tags": ["performance", "sport"]
+  },
+  {
+    "id": "vektor-ecodrive-20555r16",
+    "brandId": "vektor",
+    "model": "EcoDrive",
+    "season": "summer",
+    "size": { "widthMm": 205, "aspect": 55, "rimDiameterInch": 16 },
+    "loadIndex": 91,
+    "speedRating": "V",
+    "priceGel": 240,
+    "inStock": 20,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "C", "noiseDb": 70, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "treadDepthMm": 8.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/vektor-ecodrive-20555r16/catalog.svg",
+      "sidewallUrl": "/assets/tires/vektor-ecodrive-20555r16/sidewall.svg",
+      "treadUrl": "/assets/tires/vektor-ecodrive-20555r16/tread.svg",
+      "gallery": []
+    },
+    "tags": ["value", "eco"]
+  },
+  {
+    "id": "vektor-ecodrive-20550r17",
+    "brandId": "vektor",
+    "model": "EcoDrive",
+    "season": "summer",
+    "size": { "widthMm": 205, "aspect": 50, "rimDiameterInch": 17 },
+    "loadIndex": 93,
+    "speedRating": "V",
+    "priceGel": 270,
+    "inStock": 18,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "C", "noiseDb": 70, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "treadDepthMm": 8.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/vektor-ecodrive-20550r17/catalog.svg",
+      "sidewallUrl": "/assets/tires/vektor-ecodrive-20550r17/sidewall.svg",
+      "treadUrl": "/assets/tires/vektor-ecodrive-20550r17/tread.svg",
+      "gallery": []
+    },
+    "tags": ["value", "eco"]
+  },
+  {
+    "id": "aurelia-wintercontact-22545r18",
+    "brandId": "aurelia",
+    "model": "WinterContact",
+    "season": "winter",
+    "size": { "widthMm": 225, "aspect": 45, "rimDiameterInch": 18 },
+    "loadIndex": 94,
+    "speedRating": "H",
+    "priceGel": 480,
+    "inStock": 10,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "B", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "studdable": true, "threePMSF": true, "mudSnow": true, "treadDepthMm": 8.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-wintercontact-22545r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-wintercontact-22545r18/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-wintercontact-22545r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "aurelia-wintercontact-22550r17",
+    "brandId": "aurelia",
+    "model": "WinterContact",
+    "season": "winter",
+    "size": { "widthMm": 225, "aspect": 50, "rimDiameterInch": 17 },
+    "loadIndex": 95,
+    "speedRating": "H",
+    "priceGel": 440,
+    "inStock": 9,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "B", "noiseDb": 71, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "studdable": true, "threePMSF": true, "mudSnow": true, "treadDepthMm": 8.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-wintercontact-22550r17/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-wintercontact-22550r17/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-wintercontact-22550r17/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "kinetik-snowtrack-21545r17",
+    "brandId": "kinetik",
+    "model": "SnowTrack",
+    "season": "winter",
+    "size": { "widthMm": 215, "aspect": 45, "rimDiameterInch": 17 },
+    "loadIndex": 91,
+    "speedRating": "H",
+    "priceGel": 360,
+    "inStock": 8,
+    "euLabel": { "fuelEfficiency": "E", "wetGrip": "C", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "threePMSF": true, "mudSnow": true, "treadDepthMm": 9.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/kinetik-snowtrack-21545r17/catalog.svg",
+      "sidewallUrl": "/assets/tires/kinetik-snowtrack-21545r17/sidewall.svg",
+      "treadUrl": "/assets/tires/kinetik-snowtrack-21545r17/tread.svg",
+      "gallery": []
+    },
+    "tags": ["performance"]
+  },
+  {
+    "id": "vektor-iceguard-20555r16",
+    "brandId": "vektor",
+    "model": "IceGuard",
+    "season": "winter",
+    "size": { "widthMm": 205, "aspect": 55, "rimDiameterInch": 16 },
+    "loadIndex": 91,
+    "speedRating": "T",
+    "priceGel": 230,
+    "inStock": 16,
+    "euLabel": { "fuelEfficiency": "E", "wetGrip": "C", "noiseDb": 71, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "studdable": true, "threePMSF": true, "mudSnow": true, "treadDepthMm": 9.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/vektor-iceguard-20555r16/catalog.svg",
+      "sidewallUrl": "/assets/tires/vektor-iceguard-20555r16/sidewall.svg",
+      "treadUrl": "/assets/tires/vektor-iceguard-20555r16/tread.svg",
+      "gallery": []
+    },
+    "tags": ["value"]
+  },
+  {
+    "id": "vektor-iceguard-20550r17",
+    "brandId": "vektor",
+    "model": "IceGuard",
+    "season": "winter",
+    "size": { "widthMm": 205, "aspect": 50, "rimDiameterInch": 17 },
+    "loadIndex": 93,
+    "speedRating": "H",
+    "priceGel": 260,
+    "inStock": 12,
+    "euLabel": { "fuelEfficiency": "E", "wetGrip": "C", "noiseDb": 71, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "threePMSF": true, "mudSnow": true, "treadDepthMm": 9.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/vektor-iceguard-20550r17/catalog.svg",
+      "sidewallUrl": "/assets/tires/vektor-iceguard-20550r17/sidewall.svg",
+      "treadUrl": "/assets/tires/vektor-iceguard-20550r17/tread.svg",
+      "gallery": []
+    },
+    "tags": ["value"]
+  },
+  {
+    "id": "aurelia-wintercontact-suv-26560r18",
+    "brandId": "aurelia",
+    "model": "WinterContact SUV",
+    "season": "winter",
+    "size": { "widthMm": 265, "aspect": 60, "rimDiameterInch": 18 },
+    "loadIndex": 112,
+    "speedRating": "H",
+    "priceGel": 690,
+    "inStock": 6,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "C", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "threePMSF": true, "mudSnow": true, "treadDepthMm": 9.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-wintercontact-suv-26560r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-wintercontact-suv-26560r18/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-wintercontact-suv-26560r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "vektor-iceguard-suv-26565r17",
+    "brandId": "vektor",
+    "model": "IceGuard SUV",
+    "season": "winter",
+    "size": { "widthMm": 265, "aspect": 65, "rimDiameterInch": 17 },
+    "loadIndex": 108,
+    "speedRating": "T",
+    "priceGel": 540,
+    "inStock": 5,
+    "euLabel": { "fuelEfficiency": "E", "wetGrip": "C", "noiseDb": 73, "noiseClass": "C" },
+    "attributes": { "runFlat": false, "threePMSF": true, "mudSnow": true, "treadDepthMm": 10.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/vektor-iceguard-suv-26565r17/catalog.svg",
+      "sidewallUrl": "/assets/tires/vektor-iceguard-suv-26565r17/sidewall.svg",
+      "treadUrl": "/assets/tires/vektor-iceguard-suv-26565r17/tread.svg",
+      "gallery": []
+    },
+    "tags": ["value"]
+  },
+  {
+    "id": "aurelia-wintercontact-24540r19",
+    "brandId": "aurelia",
+    "model": "WinterContact",
+    "season": "winter",
+    "size": { "widthMm": 245, "aspect": 40, "rimDiameterInch": 19 },
+    "loadIndex": 98,
+    "speedRating": "W",
+    "priceGel": 620,
+    "inStock": 5,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "B", "noiseDb": 73, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "threePMSF": true, "mudSnow": true, "treadDepthMm": 8.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-wintercontact-24540r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-wintercontact-24540r19/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-wintercontact-24540r19/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "sport"]
+  },
+  {
+    "id": "aurelia-wintercontact-27535r19",
+    "brandId": "aurelia",
+    "model": "WinterContact",
+    "season": "winter",
+    "size": { "widthMm": 275, "aspect": 35, "rimDiameterInch": 19 },
+    "loadIndex": 96,
+    "speedRating": "W",
+    "priceGel": 680,
+    "inStock": 4,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "B", "noiseDb": 74, "noiseClass": "C" },
+    "attributes": { "runFlat": false, "threePMSF": true, "mudSnow": true, "treadDepthMm": 8.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-wintercontact-27535r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-wintercontact-27535r19/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-wintercontact-27535r19/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "sport"]
+  },
+  {
+    "id": "vektor-iceguard-19565r15",
+    "brandId": "vektor",
+    "model": "IceGuard",
+    "season": "winter",
+    "size": { "widthMm": 195, "aspect": 65, "rimDiameterInch": 15 },
+    "loadIndex": 91,
+    "speedRating": "T",
+    "priceGel": 200,
+    "inStock": 20,
+    "euLabel": { "fuelEfficiency": "E", "wetGrip": "C", "noiseDb": 70, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "studdable": true, "threePMSF": true, "mudSnow": true, "treadDepthMm": 9.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/vektor-iceguard-19565r15/catalog.svg",
+      "sidewallUrl": "/assets/tires/vektor-iceguard-19565r15/sidewall.svg",
+      "treadUrl": "/assets/tires/vektor-iceguard-19565r15/tread.svg",
+      "gallery": []
+    },
+    "tags": ["value"]
+  },
+  {
+    "id": "aurelia-allseasoncontact-22545r18",
+    "brandId": "aurelia",
+    "model": "AllSeasonContact",
+    "season": "all-season",
+    "size": { "widthMm": 225, "aspect": 45, "rimDiameterInch": 18 },
+    "loadIndex": 96,
+    "speedRating": "W",
+    "priceGel": 510,
+    "inStock": 10,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "A", "noiseDb": 71, "noiseClass": "B" },
+    "attributes": { "runFlat": true, "threePMSF": true, "mudSnow": true, "treadDepthMm": 8.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-allseasoncontact-22545r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-allseasoncontact-22545r18/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-allseasoncontact-22545r18/tread.svg",
+      "glbUrl": "/assets/tires/aurelia-allseasoncontact-22545r18/model.glb",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring", "run-flat"]
+  },
+  {
+    "id": "aurelia-allseasoncontact-22540r19",
+    "brandId": "aurelia",
+    "model": "AllSeasonContact",
+    "season": "all-season",
+    "size": { "widthMm": 225, "aspect": 40, "rimDiameterInch": 19 },
+    "loadIndex": 96,
+    "speedRating": "W",
+    "priceGel": 560,
+    "inStock": 8,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "A", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": true, "mudSnow": true, "treadDepthMm": 8.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-allseasoncontact-22540r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-allseasoncontact-22540r19/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-allseasoncontact-22540r19/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring", "run-flat"]
+  },
+  {
+    "id": "kinetik-allroad-21540r18",
+    "brandId": "kinetik",
+    "model": "AllRoad",
+    "season": "all-season",
+    "size": { "widthMm": 215, "aspect": 40, "rimDiameterInch": 18 },
+    "loadIndex": 89,
+    "speedRating": "V",
+    "priceGel": 400,
+    "inStock": 8,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "B", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "mudSnow": true, "treadDepthMm": 7.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/kinetik-allroad-21540r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/kinetik-allroad-21540r18/sidewall.svg",
+      "treadUrl": "/assets/tires/kinetik-allroad-21540r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["performance"]
+  },
+  {
+    "id": "kinetik-allroad-22540r18",
+    "brandId": "kinetik",
+    "model": "AllRoad",
+    "season": "all-season",
+    "size": { "widthMm": 225, "aspect": 40, "rimDiameterInch": 18 },
+    "loadIndex": 92,
+    "speedRating": "W",
+    "priceGel": 430,
+    "inStock": 10,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "A", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "mudSnow": true, "treadDepthMm": 7.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/kinetik-allroad-22540r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/kinetik-allroad-22540r18/sidewall.svg",
+      "treadUrl": "/assets/tires/kinetik-allroad-22540r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["performance"]
+  },
+  {
+    "id": "vektor-quattro-20555r16",
+    "brandId": "vektor",
+    "model": "Quattro",
+    "season": "all-season",
+    "size": { "widthMm": 205, "aspect": 55, "rimDiameterInch": 16 },
+    "loadIndex": 91,
+    "speedRating": "H",
+    "priceGel": 260,
+    "inStock": 14,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "B", "noiseDb": 70, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "mudSnow": true, "threePMSF": true, "treadDepthMm": 8.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/vektor-quattro-20555r16/catalog.svg",
+      "sidewallUrl": "/assets/tires/vektor-quattro-20555r16/sidewall.svg",
+      "treadUrl": "/assets/tires/vektor-quattro-20555r16/tread.svg",
+      "gallery": []
+    },
+    "tags": ["value", "eco"]
+  },
+  {
+    "id": "vektor-quattro-20550r17",
+    "brandId": "vektor",
+    "model": "Quattro",
+    "season": "all-season",
+    "size": { "widthMm": 205, "aspect": 50, "rimDiameterInch": 17 },
+    "loadIndex": 93,
+    "speedRating": "V",
+    "priceGel": 290,
+    "inStock": 12,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "B", "noiseDb": 70, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "mudSnow": true, "threePMSF": true, "treadDepthMm": 8.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/vektor-quattro-20550r17/catalog.svg",
+      "sidewallUrl": "/assets/tires/vektor-quattro-20550r17/sidewall.svg",
+      "treadUrl": "/assets/tires/vektor-quattro-20550r17/tread.svg",
+      "gallery": []
+    },
+    "tags": ["value", "eco"]
+  },
+  {
+    "id": "aurelia-allseasoncontact-23545r18",
+    "brandId": "aurelia",
+    "model": "AllSeasonContact",
+    "season": "all-season",
+    "size": { "widthMm": 235, "aspect": 45, "rimDiameterInch": 18 },
+    "loadIndex": 98,
+    "speedRating": "V",
+    "priceGel": 540,
+    "inStock": 8,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "A", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": true, "mudSnow": true, "treadDepthMm": 8.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-allseasoncontact-23545r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-allseasoncontact-23545r18/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-allseasoncontact-23545r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring", "run-flat"]
+  },
+  {
+    "id": "aurelia-allseasoncontact-suv-26550r19",
+    "brandId": "aurelia",
+    "model": "AllSeasonContact SUV",
+    "season": "all-season",
+    "size": { "widthMm": 265, "aspect": 50, "rimDiameterInch": 19 },
+    "loadIndex": 110,
+    "speedRating": "V",
+    "priceGel": 760,
+    "inStock": 6,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "B", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "mudSnow": true, "treadDepthMm": 8.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-allseasoncontact-suv-26550r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-allseasoncontact-suv-26550r19/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-allseasoncontact-suv-26550r19/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "aurelia-allseasoncontact-suv-26560r18",
+    "brandId": "aurelia",
+    "model": "AllSeasonContact SUV",
+    "season": "all-season",
+    "size": { "widthMm": 265, "aspect": 60, "rimDiameterInch": 18 },
+    "loadIndex": 112,
+    "speedRating": "H",
+    "priceGel": 700,
+    "inStock": 5,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "B", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "mudSnow": true, "threePMSF": true, "treadDepthMm": 9.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-allseasoncontact-suv-26560r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-allseasoncontact-suv-26560r18/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-allseasoncontact-suv-26560r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "kinetik-allroad-24540r19",
+    "brandId": "kinetik",
+    "model": "AllRoad",
+    "season": "all-season",
+    "size": { "widthMm": 245, "aspect": 40, "rimDiameterInch": 19 },
+    "loadIndex": 98,
+    "speedRating": "W",
+    "priceGel": 580,
+    "inStock": 6,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "B", "noiseDb": 73, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "mudSnow": true, "treadDepthMm": 7.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/kinetik-allroad-24540r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/kinetik-allroad-24540r19/sidewall.svg",
+      "treadUrl": "/assets/tires/kinetik-allroad-24540r19/tread.svg",
+      "gallery": []
+    },
+    "tags": ["performance"]
+  },
+  {
+    "id": "kinetik-allroad-27535r19",
+    "brandId": "kinetik",
+    "model": "AllRoad",
+    "season": "all-season",
+    "size": { "widthMm": 275, "aspect": 35, "rimDiameterInch": 19 },
+    "loadIndex": 96,
+    "speedRating": "W",
+    "priceGel": 640,
+    "inStock": 5,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "B", "noiseDb": 74, "noiseClass": "C" },
+    "attributes": { "runFlat": false, "mudSnow": true, "treadDepthMm": 7.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/kinetik-allroad-27535r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/kinetik-allroad-27535r19/sidewall.svg",
+      "treadUrl": "/assets/tires/kinetik-allroad-27535r19/tread.svg",
+      "gallery": []
+    },
+    "tags": ["performance"]
+  },
+  {
+    "id": "aurelia-grandtour-26550r19",
+    "brandId": "aurelia",
+    "model": "GranTour SUV",
+    "season": "summer",
+    "size": { "widthMm": 265, "aspect": 50, "rimDiameterInch": 19 },
+    "loadIndex": 109,
+    "speedRating": "V",
+    "priceGel": 740,
+    "inStock": 6,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "B", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": true, "treadDepthMm": 8.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-grandtour-26550r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-grandtour-26550r19/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-grandtour-26550r19/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring", "run-flat"]
+  },
+  {
+    "id": "aurelia-wintercontact-suv-26550r19",
+    "brandId": "aurelia",
+    "model": "WinterContact SUV",
+    "season": "winter",
+    "size": { "widthMm": 265, "aspect": 50, "rimDiameterInch": 19 },
+    "loadIndex": 109,
+    "speedRating": "H",
+    "priceGel": 760,
+    "inStock": 5,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "C", "noiseDb": 73, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "threePMSF": true, "mudSnow": true, "treadDepthMm": 9.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-wintercontact-suv-26550r19/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-wintercontact-suv-26550r19/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-wintercontact-suv-26550r19/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "aurelia-wintercontact-suv-27545r20",
+    "brandId": "aurelia",
+    "model": "WinterContact SUV",
+    "season": "winter",
+    "size": { "widthMm": 275, "aspect": 45, "rimDiameterInch": 20 },
+    "loadIndex": 113,
+    "speedRating": "H",
+    "priceGel": 880,
+    "inStock": 4,
+    "euLabel": { "fuelEfficiency": "C", "wetGrip": "C", "noiseDb": 73, "noiseClass": "C" },
+    "attributes": { "runFlat": false, "threePMSF": true, "mudSnow": true, "treadDepthMm": 9.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-wintercontact-suv-27545r20/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-wintercontact-suv-27545r20/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-wintercontact-suv-27545r20/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "aurelia-allseasoncontact-suv-27545r20",
+    "brandId": "aurelia",
+    "model": "AllSeasonContact SUV",
+    "season": "all-season",
+    "size": { "widthMm": 275, "aspect": 45, "rimDiameterInch": 20 },
+    "loadIndex": 113,
+    "speedRating": "V",
+    "priceGel": 840,
+    "inStock": 5,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "B", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "mudSnow": true, "treadDepthMm": 8.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-allseasoncontact-suv-27545r20/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-allseasoncontact-suv-27545r20/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-allseasoncontact-suv-27545r20/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "aurelia-grandtour-26560r18",
+    "brandId": "aurelia",
+    "model": "GranTour SUV",
+    "season": "summer",
+    "size": { "widthMm": 265, "aspect": 60, "rimDiameterInch": 18 },
+    "loadIndex": 113,
+    "speedRating": "H",
+    "priceGel": 720,
+    "inStock": 6,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "B", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "treadDepthMm": 9.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-grandtour-26560r18/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-grandtour-26560r18/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-grandtour-26560r18/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "aurelia-grandtour-26565r17",
+    "brandId": "aurelia",
+    "model": "GranTour SUV",
+    "season": "summer",
+    "size": { "widthMm": 265, "aspect": 65, "rimDiameterInch": 17 },
+    "loadIndex": 113,
+    "speedRating": "H",
+    "priceGel": 680,
+    "inStock": 7,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "C", "noiseDb": 73, "noiseClass": "C" },
+    "attributes": { "runFlat": false, "treadDepthMm": 9.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-grandtour-26565r17/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-grandtour-26565r17/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-grandtour-26565r17/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "aurelia-wintercontact-suv-26565r17",
+    "brandId": "aurelia",
+    "model": "WinterContact SUV",
+    "season": "winter",
+    "size": { "widthMm": 265, "aspect": 65, "rimDiameterInch": 17 },
+    "loadIndex": 113,
+    "speedRating": "T",
+    "priceGel": 640,
+    "inStock": 6,
+    "euLabel": { "fuelEfficiency": "D", "wetGrip": "C", "noiseDb": 73, "noiseClass": "C" },
+    "attributes": { "runFlat": false, "threePMSF": true, "mudSnow": true, "studdable": true, "treadDepthMm": 10.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-wintercontact-suv-26565r17/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-wintercontact-suv-26565r17/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-wintercontact-suv-26565r17/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "aurelia-allseasoncontact-suv-26565r17",
+    "brandId": "aurelia",
+    "model": "AllSeasonContact SUV",
+    "season": "all-season",
+    "size": { "widthMm": 265, "aspect": 65, "rimDiameterInch": 17 },
+    "loadIndex": 113,
+    "speedRating": "H",
+    "priceGel": 660,
+    "inStock": 6,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "B", "noiseDb": 72, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "mudSnow": true, "threePMSF": true, "treadDepthMm": 9.5 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-allseasoncontact-suv-26565r17/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-allseasoncontact-suv-26565r17/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-allseasoncontact-suv-26565r17/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  },
+  {
+    "id": "aurelia-allseasoncontact-22545r17",
+    "brandId": "aurelia",
+    "model": "AllSeasonContact",
+    "season": "all-season",
+    "size": { "widthMm": 225, "aspect": 45, "rimDiameterInch": 17 },
+    "loadIndex": 94,
+    "speedRating": "W",
+    "priceGel": 470,
+    "inStock": 9,
+    "euLabel": { "fuelEfficiency": "B", "wetGrip": "A", "noiseDb": 71, "noiseClass": "B" },
+    "attributes": { "runFlat": false, "mudSnow": true, "threePMSF": true, "treadDepthMm": 8.0 },
+    "media": {
+      "catalogUrl": "/assets/tires/aurelia-allseasoncontact-22545r17/catalog.svg",
+      "sidewallUrl": "/assets/tires/aurelia-allseasoncontact-22545r17/sidewall.svg",
+      "treadUrl": "/assets/tires/aurelia-allseasoncontact-22545r17/tread.svg",
+      "gallery": []
+    },
+    "tags": ["flagship", "touring"]
+  }
+]

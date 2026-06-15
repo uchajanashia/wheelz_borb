@@ -1,0 +1,26 @@
+[
+  {
+    "id": "aurelia",
+    "name": "AURELIA",
+    "country": "Germany",
+    "logoUrl": "/assets/brands/aurelia.svg",
+    "story": "A flagship European tyremaker — silica compounds and quiet, long-wearing touring and sport ranges engineered on the Eifel.",
+    "tier": "flagship"
+  },
+  {
+    "id": "kinetik",
+    "name": "Kinetik",
+    "country": "Japan",
+    "logoUrl": "/assets/brands/kinetik.svg",
+    "story": "Performance rubber developed on the Tsukuba circuit — fast-warming compounds and aggressive tread for grip-first drivers.",
+    "tier": "performance"
+  },
+  {
+    "id": "vektor",
+    "name": "VEKTOR",
+    "country": "Poland",
+    "logoUrl": "/assets/brands/vektor.svg",
+    "story": "Honest value tyres with EU-grade certification — dependable all-weather mileage without the premium price.",
+    "tier": "value"
+  }
+]

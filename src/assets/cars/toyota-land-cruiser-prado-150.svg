@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1260" width="2400" height="1260" fill="none">
+  <defs>
+    <linearGradient id="paint" x1="0" y1="78.9" x2="0" y2="1049" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#33333b"/>
+      <stop offset="0.55" stop-color="#26262c"/>
+      <stop offset="1" stop-color="#1a1a1f"/>
+    </linearGradient>
+  </defs>
+  <circle cx="615" cy="940" r="283.4" fill="#0a0a0c"/><path d="M 326.1 940 A 288.9 288.9 0 0 1 903.9 940" fill="none" stroke="#ffffff14" stroke-width="3"/>
+  <circle cx="1760" cy="940" r="283.4" fill="#0a0a0c"/><path d="M 1471.2 940 A 288.9 288.9 0 0 1 2048.8 940" fill="none" stroke="#ffffff14" stroke-width="3"/>
+  <path d="M 179 1049 Q 129.9 885.5 151.8 754.7 Q 162.7 623.9 271.6 602.1 L 560.5 602.1 Q 697.8 78.9 887.5 78.9 L 1051.5 78.9 Q 1276.3 613 1460.3 634.8 Q 1705.5 645.7 2141.5 700.2 Q 2250.5 722 2239.6 874.6 Q 2250.5 983.6 2185.1 1049 Z" fill="url(#paint)" stroke="#ffffff1f" stroke-width="3"/>
+  <path d="M 619.4 587.4 Q 746.9 127.9 936.5 127.9 L 1022.1 127.9 Q 1296.8 602.1 1416.1 592.3 Z" fill="#3b3b46" opacity="0.9"/>
+  <rect x="1024" y="127.9" width="54.5" height="454.5" fill="url(#paint)"/>
+  <line x1="315.3" y1="765.6" x2="2032.5" y2="765.6" stroke="#ffffff21" stroke-width="3"/>
+  <circle cx="615" cy="940" r="272.5" fill="#08080a"/><circle cx="615" cy="940" r="160.7" fill="#3a3d44"/><circle cx="615" cy="940" r="154.3" fill="#23252a"/><line x1="615" y1="940" x2="615" y2="808.2" stroke="#2c2e33" stroke-width="19.3" stroke-linecap="round"/><line x1="615" y1="940" x2="740.3" y2="899.3" stroke="#2c2e33" stroke-width="19.3" stroke-linecap="round"/><line x1="615" y1="940" x2="692.5" y2="1046.6" stroke="#2c2e33" stroke-width="19.3" stroke-linecap="round"/><line x1="615" y1="940" x2="537.5" y2="1046.6" stroke="#2c2e33" stroke-width="19.3" stroke-linecap="round"/><line x1="615" y1="940" x2="489.7" y2="899.3" stroke="#2c2e33" stroke-width="19.3" stroke-linecap="round"/><circle cx="615" cy="940" r="32.1" fill="#16171a" stroke="#4a4d54" stroke-width="3"/>
+  <circle cx="1760" cy="940" r="272.5" fill="#08080a"/><circle cx="1760" cy="940" r="160.7" fill="#3a3d44"/><circle cx="1760" cy="940" r="154.3" fill="#23252a"/><line x1="1760" y1="940" x2="1760" y2="808.2" stroke="#2c2e33" stroke-width="19.3" stroke-linecap="round"/><line x1="1760" y1="940" x2="1885.3" y2="899.3" stroke="#2c2e33" stroke-width="19.3" stroke-linecap="round"/><line x1="1760" y1="940" x2="1837.5" y2="1046.6" stroke="#2c2e33" stroke-width="19.3" stroke-linecap="round"/><line x1="1760" y1="940" x2="1682.5" y2="1046.6" stroke="#2c2e33" stroke-width="19.3" stroke-linecap="round"/><line x1="1760" y1="940" x2="1634.7" y2="899.3" stroke="#2c2e33" stroke-width="19.3" stroke-linecap="round"/><circle cx="1760" cy="940" r="32.1" fill="#16171a" stroke="#4a4d54" stroke-width="3"/>
+  <text x="151.8" y="-57.4" fill="#9c9b94" opacity="0.35" font-family="system-ui, sans-serif" font-size="40" letter-spacing="6">LAND CRUISER PRADO J150 · PLACEHOLDER RENDER</text>
+</svg>

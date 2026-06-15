@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1260" width="2400" height="1260" fill="none">
+  <defs>
+    <linearGradient id="paint" x1="0" y1="393.5" x2="0" y2="1121.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#33333b"/>
+      <stop offset="0.55" stop-color="#26262c"/>
+      <stop offset="1" stop-color="#1a1a1f"/>
+    </linearGradient>
+  </defs>
+  <circle cx="585" cy="985" r="236.6" fill="#0a0a0c"/><path d="M 343.9 985 A 241.2 241.2 0 0 1 826.1 985" fill="none" stroke="#ffffff14" stroke-width="3"/>
+  <circle cx="1815" cy="985" r="236.6" fill="#0a0a0c"/><path d="M 1573.8 985 A 241.2 241.2 0 0 1 2056.2 985" fill="none" stroke="#ffffff14" stroke-width="3"/>
+  <path d="M 175.5 1121.5 Q 134.6 985 152.8 875.8 Q 161.8 766.6 252.8 748.4 L 812.5 748.4 Q 923.6 402.6 1090.2 393.5 Q 1301.2 416.3 1473.8 766.6 Q 1769.5 784.8 2156.3 830.3 Q 2247.3 848.5 2238.2 975.9 Q 2247.3 1066.9 2192.7 1121.5 Z" fill="url(#paint)" stroke="#ffffff1f" stroke-width="3"/>
+  <path d="M 861.6 736.1 Q 970.1 434.4 1090.2 434.4 Q 1289.7 457.2 1436.9 740.2 Z" fill="#3b3b46" opacity="0.9"/>
+  <rect x="1126.6" y="434.4" width="45.5" height="297.6" fill="url(#paint)"/>
+  <line x1="289.3" y1="884.9" x2="2065.3" y2="884.9" stroke="#ffffff21" stroke-width="3"/>
+  <circle cx="585" cy="985" r="227.5" fill="#08080a"/><circle cx="585" cy="985" r="157.7" fill="#3a3d44"/><circle cx="585" cy="985" r="151.4" fill="#23252a"/><line x1="585" y1="985" x2="585" y2="855.7" stroke="#2c2e33" stroke-width="18.9" stroke-linecap="round"/><line x1="585" y1="985" x2="708" y2="945" stroke="#2c2e33" stroke-width="18.9" stroke-linecap="round"/><line x1="585" y1="985" x2="661" y2="1089.6" stroke="#2c2e33" stroke-width="18.9" stroke-linecap="round"/><line x1="585" y1="985" x2="509" y2="1089.6" stroke="#2c2e33" stroke-width="18.9" stroke-linecap="round"/><line x1="585" y1="985" x2="462" y2="945" stroke="#2c2e33" stroke-width="18.9" stroke-linecap="round"/><circle cx="585" cy="985" r="31.5" fill="#16171a" stroke="#4a4d54" stroke-width="3"/>
+  <circle cx="1815" cy="985" r="227.5" fill="#08080a"/><circle cx="1815" cy="985" r="157.7" fill="#3a3d44"/><circle cx="1815" cy="985" r="151.4" fill="#23252a"/><line x1="1815" y1="985" x2="1815" y2="855.7" stroke="#2c2e33" stroke-width="18.9" stroke-linecap="round"/><line x1="1815" y1="985" x2="1938" y2="945" stroke="#2c2e33" stroke-width="18.9" stroke-linecap="round"/><line x1="1815" y1="985" x2="1891" y2="1089.6" stroke="#2c2e33" stroke-width="18.9" stroke-linecap="round"/><line x1="1815" y1="985" x2="1739" y2="1089.6" stroke="#2c2e33" stroke-width="18.9" stroke-linecap="round"/><line x1="1815" y1="985" x2="1692" y2="945" stroke="#2c2e33" stroke-width="18.9" stroke-linecap="round"/><circle cx="1815" cy="985" r="31.5" fill="#16171a" stroke="#4a4d54" stroke-width="3"/>
+  <text x="152.8" y="279.8" fill="#9c9b94" opacity="0.35" font-family="system-ui, sans-serif" font-size="40" letter-spacing="6">3 SERIES G20 · PLACEHOLDER RENDER</text>
+</svg>
