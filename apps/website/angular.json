@@ -48,16 +48,11 @@
                 "glob": "**/*",
                 "input": "src/assets",
                 "output": "assets"
-              },
-              {
-                "glob": "**/*",
-                "input": "node_modules/three/examples/jsm/libs/draco",
-                "output": "assets/draco"
               }
             ],
             "styles": [
-              "node_modules/@fontsource/noto-sans-georgian/400.css",
-              "node_modules/@fontsource/noto-sans-georgian/500.css",
+              "@fontsource/noto-sans-georgian/400.css",
+              "@fontsource/noto-sans-georgian/500.css",
               "src/styles.scss"
             ],
             "polyfills": [
